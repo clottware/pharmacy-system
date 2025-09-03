@@ -1,5 +1,5 @@
 {
   "latest_version": "1.0.0",
-  "zip_url": "https://github.com/clottware/pharmacy-system/releases/download/v1.0.0/pharmacy_1.0.0.zip",
+  "zip_url": "https://github.com/clottware/pharmacy-system/releases/download/v1.0.0/pharmacy-system.zip",
   "sql_script": "update_1.0.0.sql"
 }
